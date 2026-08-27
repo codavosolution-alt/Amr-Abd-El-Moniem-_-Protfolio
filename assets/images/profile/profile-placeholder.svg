@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-labelledby="t d">
+  <title id="t">Professional profile placeholder</title><desc id="d">Original illustrated portrait placeholder to replace with the final profile photo.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dce8f0"/><stop offset="1" stop-color="#a9c0d1"/></linearGradient><linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173b59"/><stop offset="1" stop-color="#081d30"/></linearGradient><linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d5a080"/><stop offset="1" stop-color="#a66d50"/></linearGradient></defs>
+  <rect width="360" height="360" rx="180" fill="url(#bg)"/><circle cx="285" cy="64" r="100" fill="#fff" opacity=".2"/>
+  <path d="M48 360c8-103 52-160 132-160s124 57 132 160H48Z" fill="url(#shirt)"/>
+  <path d="M137 184h86v64c-25 20-61 20-86 0v-64Z" fill="url(#skin)"/>
+  <path d="M103 112c4-71 42-102 78-102 51 0 82 37 77 108l-8 80c-5 48-32 74-69 74-38 0-67-27-72-74l-6-86Z" fill="url(#skin)"/>
+  <path d="M102 126C91 58 116 4 180 3c55-1 90 38 83 103l-12-54c-45 16-92 6-125-17l-13 91h-11Z" fill="#13202b"/>
+  <path d="M126 117c13-7 29-7 42-1M194 116c13-6 28-5 39 2" stroke="#644638" stroke-width="5" stroke-linecap="round" fill="none"/><circle cx="147" cy="137" r="5" fill="#17212b"/><circle cx="216" cy="137" r="5" fill="#17212b"/>
+  <path d="M181 138c-5 21-5 33 4 37M154 198c19 12 38 12 56-1" stroke="#815647" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M124 170c8 53 28 75 58 75 31 0 51-24 57-76-12 42-31 55-57 55-25 0-45-14-58-54Z" fill="#312926" opacity=".55"/>
+  <path d="m136 229 44 56 44-56-20-15h-47l-21 15Z" fill="#f4f6f7"/><path d="m166 267 14 18 15-18 17 93h-63l17-93Z" fill="#168eea"/>
+</svg>

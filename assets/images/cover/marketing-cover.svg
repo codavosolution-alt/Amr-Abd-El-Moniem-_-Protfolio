@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" role="img" aria-labelledby="t d">
+  <title id="t">Digital marketing cover</title><desc id="d">An original clean cover design for a media buyer portfolio.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071e32"/><stop offset="1" stop-color="#1261a0"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#168eea"/><stop offset="1" stop-color="#42b7ff"/></linearGradient></defs>
+  <rect width="1200" height="350" fill="url(#bg)"/>
+  <circle cx="1040" cy="20" r="270" fill="#168eea" opacity=".08"/><circle cx="1040" cy="20" r="205" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="2"/><circle cx="1040" cy="20" r="135" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="2"/>
+  <g opacity=".12" stroke="#fff"><path d="M0 280h1200M0 210h1200M0 140h1200M0 70h1200"/><path d="M160 0v350M320 0v350M480 0v350M640 0v350M800 0v350M960 0v350M1120 0v350"/></g>
+  <g transform="translate(65 67)"><rect width="72" height="72" rx="18" fill="url(#glow)"/><path d="M21 49V35M36 49V23M51 49V31" stroke="#fff" stroke-width="6" stroke-linecap="round"/><path d="m17 24 15-10 14 5 12-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g>
+  <text x="65" y="185" fill="#fff" font-family="Arial,sans-serif" font-size="49" font-weight="700" letter-spacing="1">PERFORMANCE MARKETING</text>
+  <text x="67" y="226" fill="#b7d8ef" font-family="Arial,sans-serif" font-size="19" letter-spacing="4">MEDIA BUYING · STRATEGY · GROWTH</text>
+  <g transform="translate(68 273)" fill="#fff"><circle r="5" fill="#42b7ff"/><text x="18" y="6" font-family="Arial,sans-serif" font-size="14" opacity=".78">Turning data into decisions that grow businesses.</text></g>
+  <g transform="translate(905 115)"><rect width="230" height="150" rx="18" fill="#fff" opacity=".09"/><path d="M28 115 68 82l35 14 39-57 32 20 31-34" fill="none" stroke="#42b7ff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="205" cy="25" r="8" fill="#42b7ff"/><rect x="28" y="132" width="174" height="2" rx="1" fill="#fff" opacity=".14"/></g>
+</svg>
